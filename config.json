@@ -1,0 +1,13 @@
+{
+    "discord_webhook": "https://discord.com/api/webhooks/TON_WEBHOOK_ICI",
+    "screenshots": {
+        "max_screenshots": 5,
+        "max_age_hours": 24,
+        "extensions": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".webp"
+        ]
+    }
+}
